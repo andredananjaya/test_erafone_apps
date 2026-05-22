@@ -41,7 +41,7 @@ Device settings are managed in `wdio.conf.js`. Ensure `deviceName` and `platform
 ```javascript
 capabilities: [{
     platformName: 'Android',
-    'appium:deviceName': 'Andre Dananjaya Kristino',
+    'appium:deviceName': '[Device Name]',
     'appium:platformVersion': '13',
     'appium:automationName': 'UiAutomator2',
     'appium:appPackage': 'com.erafone.android',
